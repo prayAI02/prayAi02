@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Jimin Yun!
 
-I'm a Computer Science student at Suny Stonybrook.  
-I graduated from Fukuoka International School (Japan) with an IB Diploma.
+I'm a Korean who grew up in Japan. 
 
-I’ve studied basic programming in **C**, **Java**, and **Python**. 
-I’m currently learning frontend.  
-I’m interested in understanding how IT can be applied in everyday life and business.
+I graduated from Fukuoka International School with an IB Diploma.
+I stuided computer science at Stonyrbook University.
+At my college: 
+  I’ve studied basic programming in **C**, **Java**, and **Python**. 
+  I Learned basics of **frontend**.
 
 ### 🧠 Skills
 - **Languages:** C, Java, Python  
